@@ -4,4 +4,6 @@ def fizzbuzz(caroline)
   end
 end
 
-fizzbuzz(3) # => 
+fizzbuzz(3) 
+fizzbuzz(5)
+fizzbuzz()
